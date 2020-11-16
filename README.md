@@ -30,7 +30,7 @@ If this project help you reduce time to develop, you can give me a cup of coffee
 ## Installation in 3 easy steps
 1. Import in_dev.sql to your mysql
 2. Set hostname, username and password in application/config/database.php
-3. Set your site domain in application/config/config.php - $config['base_url'] = 'http://yourdomain.com'; (if you want to use it in directory path, set base_url to full path. Eg. http://yourdomain.com/invoicing and remove RewriteBase / from .htaccess!)
+3. Set your site domain in application/config/config.php - $config['base_url'] = 'http://yourdomain.com'; (if you want to use it in directory path, set base_url to full path. Eg. http://yourdomain.com/EIAWMS)
 
 <p>
 Invoices login:
