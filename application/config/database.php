@@ -78,7 +78,11 @@ $db['default'] = array(
 	'hostname' => 'localhost',
 	'username' => 'root',
 	'password' => '',
+<<<<<<< HEAD:New folder/application/config/database.php
 	'database' => 'in_dev',
+=======
+	'database' => 'in_eiawms',
+>>>>>>> old/master:application/config/database.php
 	'dbdriver' => 'mysqli',
 	'dbprefix' => '',
 	'pconnect' => FALSE,

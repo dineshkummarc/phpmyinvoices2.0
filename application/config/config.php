@@ -24,7 +24,11 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   | a PHP script and you can easily do that on your own.
   |
  */
+<<<<<<< HEAD:New folder/application/config/config.php
 $config['base_url'] = 'http://local.rocket.co.in:8081/CheckThesePortals/EIAWMS/';
+=======
+$config['base_url'] = 'http://local.rocket.co.in:8081/test1/EIAWMS/';
+>>>>>>> old/master:application/config/config.php
 
 /*
   |--------------------------------------------------------------------------
